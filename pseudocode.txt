@@ -1,0 +1,7 @@
+Based off the original Caesar's cipher's program that I have created:
+Added features:
+1. Allow the user to type in a string as the key
+2. Run through this string, comparing it to the alphabet and adding in the string's letter's corresponding position in the alphabet. This will be the key.
+3. When ciphering the text, run through the key and cipher each letter with each letter of the key. 
+4. If the cipher text is longer than the key, run through the key once more until all remaining letters are ciphered. 
+5. Done!
